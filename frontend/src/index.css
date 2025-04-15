@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  scroll-behavior: smooth;
+}
+
+.logoClass {
+  font-family: "Agbalumo";
+}
